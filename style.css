@@ -68,7 +68,6 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    /*background-image: ;*/
     background-size: cover;
     background-position: center;
     top:12px;
@@ -77,9 +76,6 @@ ul li::before{
 .ul li.checked{
     color: blue;
     text-decoration: line-through;
-}
-/*ul li.checked{
-    background-image: ;*/
 }
 ul li span{
     position: absolute;
